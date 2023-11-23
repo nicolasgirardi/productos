@@ -1,5 +1,10 @@
 {
   "productos": [
+    { "id": A-27, "producto": "Sistema ERP" },
+    { "id": A-33, "producto": "Sistema Payroll" },
+    { "id": C-47, "producto": "Sistema Impositivo" }
+  ],
+  "A-27": [
     { "id": 1, "producto": "Sistema ERP" },
     { "id": 2, "producto": "Sistema Payroll" },
     { "id": 3, "producto": "Sistema Impositivo" }

@@ -1,8 +1,8 @@
 {
   "productos": [
-    { "id": 'A-27', "producto": "Sistema ERP" },
-    { "id": 'A-17', "producto": "Sistema Payroll" },
-    { "id": 'C-42', "producto": "Sistema Impositivo" }
+    { "id": 27, "producto": "Sistema ERP" },
+    { "id": 17, "producto": "Sistema Payroll" },
+    { "id": 42, "producto": "Sistema Impositivo" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

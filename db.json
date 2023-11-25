@@ -4,6 +4,25 @@
     { "id": 17, "producto": "Sistema Payroll" },
     { "id": 42, "producto": "Sistema Impositivo" }
   ],
+  "versiones": {
+    "27": [
+      { "id": 10, "versión":  "Windows"},
+      { "id": 20, "versión":  "Linux Debian"},
+      { "id": 30, "versión":  "Linux Fedora"},
+      { "id": 40, "versión":  "Mac IOs"},
+      { "id": 50, "versión":  "Cloud Version"}
+    ],
+    "17": [
+      { "id": 10, "versión":  "Windows"},
+      { "id": 20, "versión":  "Linux Debian"},
+      { "id": 30, "versión":  "Mac IOs"},
+      { "id": 40, "versión":  "Cloud Version"}
+    ],
+    "42": [
+      { "id": 10, "versión":  "Windows"},
+      { "id": 50, "versión":  "Cloud Version"}
+    ]
+  },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }

@@ -5,17 +5,17 @@
     { "id": 42, "producto": "Sistema Impositivo" }
   ],
   "versiones": [
-    { "id": 10, "producto": "Sistema ERP", "version":  "Windows"},
-    { "id": 20, "producto": "Sistema ERP", "version":  "Linux Debian"},
-    { "id": 30, "producto": "Sistema ERP", "version":  "Linux Fedora"},
-    { "id": 40, "producto": "Sistema ERP", "version":  "Mac IOs"},
-    { "id": 50, "producto": "Sistema ERP", "version":  "Cloud Version"},
-    { "id": 10, "producto": "Sistema Payroll", "version":  "Windows"},
-    { "id": 20, "producto": "Sistema Payroll", "version":  "Linux Debian"},
-    { "id": 30, "producto": "Sistema Payroll", "version":  "Mac IOs"},
-    { "id": 40, "producto": "Sistema Payroll", "version":  "Cloud Version"},
-    { "id": 10, "producto": "Sistema Impositivo", "version":  "Windows"},
-    { "id": 50, "producto": "Sistema Impositivo", "version":  "Cloud Version"}
+    { "id": 10, "producto": 27, "version":  "Windows"},
+    { "id": 20, "producto": 27, "version":  "Linux Debian"},
+    { "id": 30, "producto": 27, "version":  "Linux Fedora"},
+    { "id": 40, "producto": 27, "version":  "Mac IOs"},
+    { "id": 50, "producto": 27, "version":  "Cloud Version"},
+    { "id": 10, "producto": 17, "version":  "Windows"},
+    { "id": 20, "producto": 17, "version":  "Linux Debian"},
+    { "id": 30, "producto": 17, "version":  "Mac IOs"},
+    { "id": 40, "producto": 17, "version":  "Cloud Version"},
+    { "id": 10, "producto": 42, "version":  "Windows"},
+    { "id": 50, "producto": 42, "version":  "Cloud Version"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

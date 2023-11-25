@@ -1,15 +1,15 @@
 {
   "versiones": [
-    { "id": 10, "producto": "Sistema ERP", "version":  "Windows"},
-    { "id": 20, "producto": "Sistema ERP", "version":  "Linux Debian"},
-    { "id": 30, "producto": "Sistema ERP", "version":  "Linux Fedora"},
-    { "id": 40, "producto": "Sistema ERP", "version":  "Mac IOs"},
-    { "id": 50, "producto": "Sistema ERP", "version":  "Cloud Version"},
-    { "id": 10, "producto": "Sistema Payroll", "version":  "Windows"},
-    { "id": 20, "producto": "Sistema Payroll", "version":  "Linux Debian"},
-    { "id": 30, "producto": "Sistema Payroll", "version":  "Mac IOs"},
-    { "id": 40, "producto": "Sistema Payroll", "version":  "Cloud Version"},
-    { "id": 10, "producto": "Sistema Impositivo", "version":  "Windows"},
-    { "id": 50, "producto": "Sistema Impositivo", "version":  "Cloud Version"}
+    { "id": 10, "productoId": 27, "versión":  "Windows"},
+    { "id": 20, "productoId": 27, "versión":  "Linux Debian"},
+    { "id": 30, "productoId": 27, "versión":  "Linux Fedora"},
+    { "id": 40, "productoId": 27, "versión":  "Mac IOs"},
+    { "id": 50, "productoId": 27, "versión":  "Cloud Version"},
+    { "id": 10, "productoId": 17, "versión":  "Windows"},
+    { "id": 20, "productoId": 17, "versión":  "Linux Debian"},
+    { "id": 30, "productoId": 17, "versión":  "Mac IOs"},
+    { "id": 40, "productoId": 17, "versión":  "Cloud Version"},
+    { "id": 10, "productoId": 42, "versión":  "Windows"},
+    { "id": 50, "productoId": 42, "versión":  "Cloud Version"}
   ]
 }

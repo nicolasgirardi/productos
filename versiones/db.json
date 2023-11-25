@@ -1,0 +1,15 @@
+{
+  "versiones": [
+    { "id": 10, "productoId": 27, "versión":  "Windows"},
+    { "id": 20, "productoId": 27, "versión":  "Linux Debian"},
+    { "id": 30, "productoId": 27, "versión":  "Linux Fedora"},
+    { "id": 40, "productoId": 27, "versión":  "Mac IOs"},
+    { "id": 50, "productoId": 27, "versión":  "Cloud Version"},
+    { "id": 10, "productoId": 17, "versión":  "Windows"},
+    { "id": 20, "productoId": 17, "versión":  "Linux Debian"},
+    { "id": 30, "productoId": 17, "versión":  "Mac IOs"},
+    { "id": 40, "productoId": 17, "versión":  "Cloud Version"},
+    { "id": 10, "productoId": 42, "versión":  "Windows"},
+    { "id": 50, "productoId": 42, "versión":  "Cloud Version"}
+  ]
+}

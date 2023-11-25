@@ -5,17 +5,17 @@
     { "id": 42, "producto": "Sistema Impositivo" }
   ],
   "versiones": [
-    { "id": 10, "producto": 27, "version":  "Windows"},
-    { "id": 20, "producto": 27, "version":  "Linux Debian"},
-    { "id": 30, "producto": 27, "version":  "Linux Fedora"},
-    { "id": 40, "producto": 27, "version":  "Mac IOs"},
-    { "id": 50, "producto": 27, "version":  "Cloud Version"},
-    { "id": 10, "producto": 17, "version":  "Windows"},
-    { "id": 20, "producto": 17, "version":  "Linux Debian"},
-    { "id": 30, "producto": 17, "version":  "Mac IOs"},
-    { "id": 40, "producto": 17, "version":  "Cloud Version"},
-    { "id": 10, "producto": 42, "version":  "Windows"},
-    { "id": 50, "producto": 42, "version":  "Cloud Version"}
+    { "id": 10, "productoId": 27, "version":  "Windows"},
+    { "id": 20, "productoId": 27, "version":  "Linux Debian"},
+    { "id": 30, "productoId": 27, "version":  "Linux Fedora"},
+    { "id": 40, "productoId": 27, "version":  "Mac IOs"},
+    { "id": 50, "productoId": 27, "version":  "Cloud Version"},
+    { "id": 10, "productoId": 17, "version":  "Windows"},
+    { "id": 20, "productoId": 17, "version":  "Linux Debian"},
+    { "id": 30, "productoId": 17, "version":  "Mac IOs"},
+    { "id": 40, "productoId": 17, "version":  "Cloud Version"},
+    { "id": 10, "productoId": 42, "version":  "Windows"},
+    { "id": 50, "productoId": 42, "version":  "Cloud Version"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

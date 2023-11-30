@@ -11,5 +11,5 @@
     { "id": 40, "productoId": 17, "version":  "Cloud Version"},
     { "id": 10, "productoId": 42, "version":  "Windows"},
     { "id": 50, "productoId": 42, "version":  "Cloud Version"}
-  ]
+  ],
 }

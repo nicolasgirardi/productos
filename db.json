@@ -17,11 +17,12 @@
     { "id": 10, "productoId": 42, "version":  "Windows"},
     { "id": 50, "productoId": 42, "version":  "Cloud Version"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "tickets": [
+    {
+      "id":1,
+      "productoId": 27,
+      "versionID": 10,
+
+    }
+  ]
 }
